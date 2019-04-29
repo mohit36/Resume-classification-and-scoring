@@ -28,6 +28,7 @@ Say what the step will be
 
 ```
 * [Pycharm IDE](https://www.jetbrains.com/pycharm/) - The IDE used
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 ```
 
 And repeat
